@@ -1,0 +1,11 @@
+{
+  "name": "zd-format-phone",
+  "version": "1.0.0",
+  "description": "- Easy to use. - Lightweight with no heavy dependencies. - Supports popular languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aitzidanyassine",
+  "license": "MIT"
+}
